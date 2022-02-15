@@ -1,0 +1,42 @@
+body{
+  background-color: #f3f3f3bd;
+}
+
+#start-race-btn { 
+    width: 300;
+    height : 30px;
+    margin-top: 40px;
+    
+}
+  
+img{
+    height: 180px;
+    width: 180px;
+  }
+  
+  
+header {
+    background-color: #0f2d3b;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .center {  
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #title-heading {
+    color: rgb(15, 160, 170);
+    font-family: monospace;
+    font-size: xxx-large;
+  }
+  
+  #car-section {
+    padding-top: 10pt;
+    text-align: left;
+  }
+  
